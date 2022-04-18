@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SVALLQPM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SHS_LCD176X220\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

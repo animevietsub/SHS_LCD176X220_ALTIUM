@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SEN_1 Pin=U2-2
+Removed Pin From Net: NetName=SEN_2 Pin=U2-3
+Removed Pin From Net: NetName=SEN_3 Pin=U2-4
+Removed Pin From Net: NetName=SEN_4 Pin=U2-5
+Removed Pin From Net: NetName=SEN_5 Pin=U2-6
+Removed Pin From Net: NetName=SER Pin=U2-11
+Added Pin To Net: NetName=BU Pin=U2-4
+Added Pin To Net: NetName=BL Pin=U2-5
+Added Pin To Net: NetName=BR Pin=U2-6
+Added Pin To Net: NetName=BD Pin=U2-7
+Added Pin To Net: NetName=SER Pin=U2-8

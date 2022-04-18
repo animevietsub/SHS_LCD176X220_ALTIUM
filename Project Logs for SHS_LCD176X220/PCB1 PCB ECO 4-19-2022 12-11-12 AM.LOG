@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BD Pin=R13-2
+Removed Pin From Net: NetName=BR Pin=R21-2
+Removed Pin From Net: NetName=BU Pin=R23-2
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R22 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R23 Old Comment=10K New Comment=1K
+Change Component Designator: OldDesignator=R13 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R13
+Change Component Designator: OldDesignator=R23 NewDesignator=R21
+Added Pin To Net: NetName=BD Pin=R13-2
+Added Pin To Net: NetName=BR Pin=R21-2
+Added Pin To Net: NetName=BU Pin=R23-2

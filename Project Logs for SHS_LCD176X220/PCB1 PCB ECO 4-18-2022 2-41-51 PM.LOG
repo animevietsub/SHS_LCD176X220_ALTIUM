@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012X135N New Footprint=CAP-SMD-0805
+Change Component Comment : Designator=C6 Old Comment=47pF New Comment=47
+Change component parameters: Designator = "C6"; Footprint = "CAP-SMD-0805"; UniqueID = "\VOBNHUYS"
+Change component parameters. Clean all parameters for all variants
