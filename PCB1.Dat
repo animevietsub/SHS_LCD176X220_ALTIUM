@@ -1,0 +1,36 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SHS_LCD176X220.PrjPcb|ReportField=ProjectFullPath~E:\NEW_DATA\Project\SHS_LCD176X220\SHS_LCD176X220.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PCB1.PcbDoc]|ReportField=ReportTime~12:16:17 PM|ReportField=ReportDate~4/20/2022|ReportField=ReportDateTime~4/20/2022 12:16:17 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~80|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=DataSourceFileName~PCB1.PcbDoc|ReportField=DataSourceFullPath~E:\NEW_DATA\Project\SHS_LCD176X220\PCB1.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Plated Hole|Single Terminal Socket|B1, B2, B3, B4|MTG300_600|PLATED_HOLE3.0_PAD6.0|4
+2|106|Non-polar capacitor|C1, C4, C16|CAP-SMD-0805|Cap-Non-SMD|3
+3|104|Non-polar capacitor|C2, C7, C17|CAP-SMD-0805|Cap-Non-SMD|3
+4|104|Non-polar capacitor|C3, C5, C9, C12, C13, C15|Cap-Non-150mil|Cap-Non-Dip|6
+5|47|Non-polar capacitor|C6|CAP-SMD-0805|Cap-Non-SMD|1
+6|220uF|Polarized capacitor|C8, C10, C11, C14|Cap-P-2.5/5|Cap-Pol-Dip|4
+7|470uF|Polarized capacitor|C18, C20, C21, C22|Cap-P-3.8/6.3|Cap-Pol-Dip|4
+8|DC INPUT||CN1|KF2/5.08|KF 2|1
+9|RELAY||CN2|KF2/5.08|KF 2|1
+10|MOTOR||CN3|KF2/5.08|KF 2|1
+11|Header||CN4, CN5|Header 7P|Header 7|2
+12|SS14|Diode SMD|D1, D2, D3, D4, D5|SOD 106|Diode SMD|5
+13|2.00A||F1|Fuse-Dip1|Fuse Dip|1
+14|SN74HC595D|8-Bit Shift Register With 3-State Output Register|IC1, IC2|SOIC127P600X175-16N|SN74HC595D|2
+15|FOD817DSD|Single Optocoupler|IC3, IC5|DIP4|FOD817DSD|2
+16|74HC14D|Hex Schmitt-Trigger Inverter|IC4|SOIC127P600X175-14N|74HC14D|1
+17|7805|Power IC, 5V-1A|IC6|TO252|7805|1
+18|HEF4067BT|16-Channel Analog Multiplexer/Demultiplexer|IC7|SOIC127P1032X265-24N|HEF4067BT|1
+19|470uH|Inductor|L1|L-DIP-M-5.3|IND-DIP-1|1
+20|POWER||LED1|LED-0805|LED_SMD|1
+21|ESP-5.0V||LED2|LED-0805|LED_SMD|1
+22|ESP-3.3V||LED3|LED-0805|LED_SMD|1
+23|MJD122G|NPN Transistor|Q1, Q2|TO228P991X239-3N-R552X520|MJD340G|2
+24|1K|Resistor 1/4W, Resistor SMD|R1, R2, R3, R5, R6, R8, R12, R13, R14, R15, R16, R21, R22, R23|RES-SMD-0805|Res 1/4W, Res SMD|14
+25|10K|Resistor 1/4W, Resistor SMD|R4, R7, R10, R11|RES-SMD-0805|Res 1/4W, Res SMD|4
+26|0R|Resistor SMD|R17, R18, R19|RES-SMD-0805|Res SMD|3
+27|0R|Resistor SMD, Resistor 1/4W|R20, R27|RES-SMD-1206|Res SMD, Res 1/4W|2
+28|UP|Switch button 4 pin|SW1|Button-Dip4/6x6|Button-4|1
+29|DOWN|Switch button 4 pin|SW2|Button-Dip4/6x6|Button-4|1
+30|LEFT|Switch button 4 pin|SW3|Button-Dip4/6x6|Button-4|1
+31|RIGHT|Switch button 4 pin|SW4|Button-Dip4/6x6|Button-4|1
+32|LM2596_MODULE||U1|LM2596_MODULE|LM2596_MODULE|1
+33|ESP32-DEVKIT-V1|- Transceiver; 802.11 b/g/n _Wi-Fi, WiFi, WLAN_, Bluetooth® Smart Ready 4.x Dual Mode For Use With ESP-WROOM-32|U2|MODULE_ESP32-DEVKITC-32D|ESP32-DEVKIT-V1|1
+34|ST7775R_2.0||U3|LCD_176X220_MODULE|LCD_176x220_ST7775R|1
+35|LM6132|Dual Low Power 10 MHz Rail-to-Rail I/O Operational Amplifier, 8-pin Narrow SOIC|U4|SOIC-8S|LM6132AIM|1
